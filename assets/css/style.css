@@ -1,0 +1,47 @@
+body {
+  background-color: #000000;
+  font: 300 18px/1.6 Source Sans Pro, sans-serif;
+  text-align: center;
+  margin: 150px;
+  text-align: center;
+  padding: 10;
+}
+
+.container {
+  background-color: #ddd;
+  height: auto;
+  width: 400px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 30px;
+  box-shadow: 5px 5px 15px #78ee29b7;
+}
+
+.page-title {
+  color: #261226;
+  margin: auto;
+  font-size: 30px;
+}
+
+.page-subtitle {
+  color: #261226;
+  margin-top: auto;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+label {
+  color: #261226;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 15px;
+  background: #ffffff;
+  font: Source Sans Pro, sans-serif;
+}
